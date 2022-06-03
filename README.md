@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/metau_android/DyBidERD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://submissions.us-east-1.linodeobjects.com/metau_android/DyBidERD.gif](https://submissions.us-east-1.linodeobjects.com/metau_android/DyBidERD.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
@@ -43,7 +43,7 @@ After step 2, my app rather spontaneously stopped working and I spent a lot of t
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Andres Chaidez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
