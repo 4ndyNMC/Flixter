@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/SKp5YK7' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![flix](https://user-images.githubusercontent.com/36943811/172670882-c8e2778b-6c3e-4232-a18b-0a94ddda14c2.gif)
+
 
 ## Notes
 
