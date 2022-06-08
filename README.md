@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='[https://submissions.us-east-1.linodeobjects.com/metau_android/DyBidERD.gif](https://submissions.us-east-1.linodeobjects.com/metau_android/DyBidERD.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1mJi4zdjEFhUPRtwWunGQRaMAtdwWv8RY/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
